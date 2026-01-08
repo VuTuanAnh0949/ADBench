@@ -2,6 +2,8 @@ Official code and data repository of [_**ADBench**: Anomaly Detection Benchmark_
 __Please star, watch, and fork ADBench for the active updates!__
 
 ## Recent News:
+- ADBench has received 1000+⭐ in github! Thank you all!
+
 - ADBench has received 600+⭐ in github and released an official Python package📦 for a better user experience! Thank you all for your attention.
 
 
